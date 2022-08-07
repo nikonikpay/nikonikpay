@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nikonikpay
-- 👀 I’m interested in Progrmming
-- 🌱 I’m currently learning Swift
+- 👋 Hi, I'm Ali Nikpey. Niko is what i like to be called. 
+- 👀 I'm a Full stack web developer 
+- 🌱 I’m Using Java, Spring , Angular and Swift
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me nikonikpay@gmail.com
 <!---
