@@ -8,7 +8,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nikonikpay)](https://git.io/streak-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikonikpay)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikonikpay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!---
