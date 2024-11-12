@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ali Nikpey. Niko is what i like to be called. 
 - 👀 I'm a Full stack web developer 
-- 🌱 I’m Using Java, Spring , Angular and Swift
+- 🌱 I’m Using Java, Spring , Angular and React And Next js
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me alinickpey@gmail.com
 
